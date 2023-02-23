@@ -1,7 +1,6 @@
 Central Document Processing Center (autodoc)
 ========================================================================
 Application uses latex in backend
-
 -----------------
 
 Front end web server, takes input for various tasks
@@ -42,6 +41,5 @@ e. option to rollback to any existing text file or document
 
 If required this tool may be required to be integrated with other tools such as ldap,ad,smtp,smsc,log server,splunk,zoom,jira,google meet,eventbrite
 
-#=========================================================================
-
+-----------------------
 
