@@ -1,6 +1,4 @@
-Central document repository (autodoc)
-========================================================================
-Central Document Processing Center
+Central Document Processing Center (autodoc)
 ========================================================================
 Application uses latex in backend
 
